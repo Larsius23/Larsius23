@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Larsius23
 - 👀 I’m interested in animes, marvel and dc comics
-- 🌱 I’m currently learning chemistry and coding
+- 🌱 I’m currently learning computational chemistry and coding
 - 📫 How to reach me : larsmedice23@gmail.com
 
 <!---
